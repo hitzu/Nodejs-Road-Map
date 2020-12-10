@@ -25,6 +25,7 @@
  2. [Learn Node.js - Full Tutorial for Beginners](https://www.youtube.com/watch?v=RLtyhwFtXQA)
  3. [Async Javascript Tutorial For Beginners (Callbacks, Promises, Async Await)](https://www.youtube.com/watch?v=_8gHHBlbziw)
  4. [# JavaScript ES6, ES7, ES8: Learn to Code on the Bleeding Edge (Full Course)](https://www.youtube.com/watch?v=nZ1DMMsyVyI)
+ 5. [Complejidad de los algoritmos](https://www.youtube.com/watch?v=0ejRvk0pojc)
 
 # Express
 
